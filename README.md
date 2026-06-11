@@ -18,6 +18,10 @@ npm start
 
 the site is static and deploys cleanly to vercel from this repository.
 
+```bash
+npm run deploy
+```
+
 ## asset
 
 the hero image was generated with the built-in image generation tool and copied into `assets/fluffles-hero.png`.

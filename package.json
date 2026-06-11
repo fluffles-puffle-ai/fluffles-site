@@ -5,7 +5,8 @@
   "description": "personal website for fluffles",
   "scripts": {
     "start": "npx serve .",
-    "check": "npx html-validate index.html"
+    "check": "npx html-validate index.html",
+    "deploy": "bash scripts/deploy.sh"
   },
   "devDependencies": {
     "html-validate": "^9.7.1",
